@@ -36,7 +36,7 @@ services:
       - redis
       - mongo
     environment:
-      - HYPIXEL_API_KEY=REPLACE_WITH_YOUR_API_KEY
+      - HYPIXEL_API_KEY=66108733-9df1-4886-b1e8-15f195d3dca0
       - MONGO_CONNECTION_STRING=mongodb://sc_mongo:27017
       - REDIS_CONNECTION_STRING=redis://sc_redis:6379
 
